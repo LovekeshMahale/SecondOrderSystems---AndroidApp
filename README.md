@@ -10,5 +10,5 @@ This Android app offers an intuitive platform for exploring and understanding th
 - **Transfer Function Display**: Clearly present system dynamics.
   
 ## Course 
-Developed as part of a Control Systems course at the Indian Institute of Technology Gandhinagar under the guidance of [Prof. Nithin V. George](https://www.iitgn.ac.in/faculty/ee/fac-nithin).
+Developed as part of a Control Systems course at the Indian Institute of Technology Gandhinagar under the guidance of [Prof. Nithin V. George](https://www.iitgn.ac.in/faculty/ee/fac-nithin)
 , this app provides a valuable tool for both educational and practical applications.
