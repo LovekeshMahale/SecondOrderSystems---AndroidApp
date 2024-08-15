@@ -1,13 +1,14 @@
-# Android Application for visualising the response of second-order control system (_Matlab App Designer_)
+# Android Application: Interactive Second-Order System Visualizer (Matlab)
 
-This MATLAB App Designer application provides a user-friendly interface for analyzing and visualizing the response of a second-order control system in real-time. The app allows users to manipulate the parameters of a standard second-order transfer function and observe the corresponding changes in various plots and diagrams.
+This Android app offers an intuitive platform for exploring and understanding the behavior of second-order control systems. By dynamically adjusting system parameters, users can instantly observe the impact on system response through various graphical representations. Key features include:
 
 ## Features
 
-- **Plot of the Unit Step Response**: Visualizes the step response of the system.
-- **Pole-Zero Diagram**: Displays the pole-zero map of the transfer function.
-- **Bode Plot**: Shows the frequency response of the system.
-- **Transfer Function Display**: Provides a clear representation of the transfer function.
-
+- **Real-time Step Response**: Visualize system behavior under step input conditions.
+- **Interactive Pole-Zero Plot**: Analyze system stability and transient response.
+- **Dynamic Bode Plot**: Explore frequency response characteristics.
+- **Transfer Function Display**: Clearly present system dynamics.
+  
 ## Course 
-This project was completed as part of the Control Systems course at the Indian Institute of Technology Gandhinagar (IIT Gandhinagar) under the guidance of [Prof. Nithin V. George](https://www.iitgn.ac.in/faculty/ee/fac-nithin).
+Developed as part of a Control Systems course at the Indian Institute of Technology Gandhinagar under the guidance of [Prof. Nithin V. George](https://www.iitgn.ac.in/faculty/ee/fac-nithin).
+, this app provides a valuable tool for both educational and practical applications.
